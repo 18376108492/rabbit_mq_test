@@ -38,5 +38,9 @@ public class MQProperties {
     //主题模式-二号队列名
     public static String TOPIC_QUEUE_NAME_2="test_topic_queue_2";
 
+    //事务机制队列名
+    public static String TX_QUEUE_NAME="test_tx_queue";
 
+    //事务机制-confirm队列名
+    public static String CONFIRM_QUEUE_NAME="test_confirm_queue";
 }
